@@ -1,5 +1,25 @@
-## Next.js App Router Course - Starter
+# Next.js App Router Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+A production-style dashboard application built with Next.js, showcasing modern App Router patterns, server components, authentication, and data fetching.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Tech Stack
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- Authentication
+- SQL Database
+
+## Features
+- App Router–based routing and layouts
+- Server and client component separation
+- Auth-protected routes
+- Server-side data fetching and caching
+- Loading and error boundaries
+- Responsive dashboard UI
+
+## Deployment
+Deployed on Vercel.
+
+## Purpose
+This project demonstrates practical implementation of modern Next.js concepts used in real-world applications.
